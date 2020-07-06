@@ -1,5 +1,3 @@
-import javax.swing.text.Caret;
-
 public class MementoLesson {
     public static void main(String[] args) {
         Originator originator = new Originator();
